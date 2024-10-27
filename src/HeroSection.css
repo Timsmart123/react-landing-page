@@ -1,0 +1,23 @@
+.hero {
+    background:  url('pexels-thngocbich-1714341.jpg') center/cover no-repeat;
+    color: white;
+    padding: 50px;
+    margin: 2rem 0;
+    padding: 5rem;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+  }
+  button {
+    border-radius: 20px;
+    border: 1px solid #ffffff;
+    padding: 8px 25px;
+    color: #ffffff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+    font-size: 16px;
+    background: none;
+  }
+  button:hover{
+    background-color: #4c6bbd;
+    color: white
+  }
+  
