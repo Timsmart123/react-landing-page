@@ -3,7 +3,7 @@ import './Footer.css';
 
 const Footer = () => {
   return (
-    <footer className="footer">
+    <footer className="footer" id='contact'>
       <h3>Contact Us</h3>
       <p>Email: <a href="mailto:nadioluwatimilehin@gmail.com">info@hrplatform.com</a></p>
       <p>Follow us on social media for updates and tips!</p>

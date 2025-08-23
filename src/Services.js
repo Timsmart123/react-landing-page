@@ -3,7 +3,7 @@ import './Services.css';
 
 const Services = () => {
   return (
-    <section className="services">
+    <section className="services" id='services'>
       <h2>Our Services</h2>
       <ul>
         <li>Employee Onboarding - Simplify the process of welcoming new team members.</li>

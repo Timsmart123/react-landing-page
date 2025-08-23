@@ -15,8 +15,10 @@
 a {
   color: #38bdf8;
 }
-
-
+/* For smooth scrolling behaviour */
+html{
+  scroll-behavior: smooth;
+}
 
 /* .App-logo {
   height: 40vmin;

@@ -3,7 +3,7 @@ import './AboutUs.css';
 
 const AboutUs = () => {
   return (
-    <section className="about-us">
+    <section className="about-us" id='about-us'>
       <h2>About Us</h2>
       <p>
         Our mission is to empower businesses to manage their human resources effectively, ensuring a seamless and efficient workflow. We are committed to innovation and delivering exceptional services tailored to your needs.
