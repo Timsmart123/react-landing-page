@@ -37,11 +37,11 @@
     padding: 0 10px;
   }
   .nav-links span:hover{
-    background-color: #184ad3e6;
+  background-color: #184ad3e6;
   }
   
-  .nav-links span {
-    padding: 20px 20px;
+  .nav-links > span > a,.nav-links span {
+    padding: 20px 10px;
   }
   .nav-links span:first-child:hover {
     border-top-left-radius:10px ;
@@ -84,13 +84,13 @@
         position: absolute;
         top: 50px;
         left: 58%;
-        width: 148px;
+        width: 160px;
     }
     .hamburger, .close-btn {
       display: block;
     }
     .nav-links span {
-      padding: 10px 5vw;
+      padding: 10px 4vw;
       text-align: center;
     }
     .nav-links span:first-child{
