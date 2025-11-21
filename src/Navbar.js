@@ -30,7 +30,7 @@ const Navbar = () => {
         )}
       </div>
       <div className={`nav-links ${isMobileMenuOpen ? 'open' : ''}`}>
-        <span><a href='https://linktr.ee/Tim629'>Useful Links</a></span>
+        <span id="link"><a href='https://linktr.ee/Tim629'>Useful Links</a></span>
         <span><a href='#hero'>Home</a></span>
         <span><a href='#about-us'>About Us</a></span>
         <span><a href='#services'>Services</a></span>
