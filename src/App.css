@@ -1,3 +1,4 @@
+/* EXCEL HR */
 .App {
  /* background: linear-gradient(135deg, rgba(30, 58, 138, 0.7), rgba(30, 64, 175, 0.7)); */
  background: linear-gradient(to bottom right, #1e3a8a, #2563eb);
@@ -19,6 +20,7 @@ a {
 html{
   scroll-behavior: smooth;
 }
+/* DEFAULT */
 
 /* .App-logo {
   height: 40vmin;

@@ -1,6 +1,4 @@
-
-
-import React from 'react';
+// EXCEL HR
 import './App.css';
 import Navbar from './Navbar';
 import HeroSection from './HeroSection';
@@ -11,6 +9,7 @@ import Footer from './Footer';
 function App() {
   return (
     <div className="App">
+      {/* EXCEL HR */}
       <Navbar />
       <HeroSection />
       <AboutUs />
