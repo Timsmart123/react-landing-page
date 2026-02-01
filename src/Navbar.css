@@ -83,7 +83,7 @@
         flex-direction: column;
         position: absolute;
         top: 50px;
-        left: 58%;
+        right: 0;
         width: 160px;
     }
     .hamburger, .close-btn {
